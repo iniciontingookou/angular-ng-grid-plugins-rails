@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
 	s.description	= 'Injects angular-ng-grid plugins js into your asset pipeline.'
 	s.authors		= ["Iniciontin Gookou"]
 	s.email			= 'iniciontingookou@gmail.com'
-	s.files			= Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
+	s.files			= Dir["{lib,vendor}/**/*"] + ["LICENSE", "README.md"]
 	s.homepage    	= 'https://github.com/iniciontingookou/angular-ng-grid-plugins-rails/'
 end
