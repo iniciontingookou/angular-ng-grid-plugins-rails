@@ -10,7 +10,7 @@ Add the following to your gemfile:
 
 Add the following directive to your Javascript manifest file (application.js):
 
-    //= require angular-ng-grid-plugins-rails
+    //= require angular-ng-grid-plugins
 
 ## Version
 
