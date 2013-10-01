@@ -1,6 +1,6 @@
-# angular-ng-grid-rails
+# Angular-ng-grid-plugins-rails
 
-angular-ng-grid-rails wraps the [AngularJS ng-grid plugins](https://github.com/angular-ui/ng-grid/tree/master/plugins) component for use in Rails 3.1 and above. Assets will minify automatically during production.
+Angular-ng-grid-plugins-rails wraps the [AngularJS ng-grid plugins](https://github.com/angular-ui/ng-grid/tree/master/plugins) component for use in Rails 3.1 and above. Assets will minify automatically during production.
 
 ## Usage
 
@@ -14,7 +14,7 @@ Add the following directive to your Javascript manifest file (application.js):
 
 ## Version
 
-The gem version will try match the original ng-grid release version.
+The gem version will try match the original ng-grid plugins release version.
 
 # License
 
